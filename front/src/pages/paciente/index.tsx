@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 // Get_Slots podría hacerse con Server Side Rendering (SSR) para asegurar que los datos
 // están actualizados en cada solicitud.
-// Esto resulta en una carga inicial más rápida de la página y una mejor optimización
+// Esto resultaria en una carga inicial más rápida de la página y una mejor optimización
 // para los motores de búsqueda. Sin embargo, puede aumentar la carga en el servidor y
 // no refleja los cambios en tiempo real.
 // Dado que las reservas van a sufrir cambios constantes en este caso se ha optado
